@@ -8,5 +8,5 @@ Please visit [CYCLOPS](https://github.com/ranafi/CYCLOPS) to try the newest vers
 
 Cyclops: this is the original version of CYCLOPS published on [PNAS](http://www.pnas.org/content/early/2017/04/19/1619320114.full).
 
-CYCLOPS_skin: this is one modified version of CYCLOPS used to order the human [epidermis](https://www.pnas.org/content/115/48/12313.long) samples. More information about this version could be found [here](https://github.com/gangwug/CYCLOPSv3.0.2.1). 
+CYCLOPS_skin: this is the modified version of CYCLOPS used to order the human [epidermis](https://www.pnas.org/content/115/48/12313.long) samples. More information about this version could be found [here](https://github.com/gangwug/CYCLOPSv3.0.2.1). 
 
