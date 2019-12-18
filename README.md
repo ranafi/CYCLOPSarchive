@@ -4,7 +4,7 @@ This repository is used to store previous versions of CYCLOPS (Cyclic Ordering b
 
 Please visit [CYCLOPS](https://github.com/ranafi/CYCLOPS) to try the newest version of CYCLOPS.
 
-### file list
+## Files
 
 Cyclops: this is the original version of CYCLOPS published on [PNAS](http://www.pnas.org/content/early/2017/04/19/1619320114.full).
 
